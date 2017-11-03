@@ -1,7 +1,4 @@
 /*Custom Fonts*/
-<style>
-@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
-</style>
 @font-face {
 	font-family: 'body';
 	src: url('../fonts/gillsans.eot');
@@ -116,7 +113,7 @@ header {
 }
 
 #logo {
-	font-family: 'shadowsintolight';
+	font-family: 'Shadows Into Light';
 	font-size: 30px;
 	text-shadow: 0px 0px 20px rgba(255, 255, 255, 1);
 	display: inline-block;
